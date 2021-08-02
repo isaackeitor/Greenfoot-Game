@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=cone
+comment0.text=\r\n\ Esta\ clase\ permite\ que\ aparezcan\ conos\ los\ cuales\ son\ obst\u00E1culos\ mientras\ Messi\ siga\ vivo.\r\n\ \r\n\ @author\ (Josu\u00E9\ Morales\ 21116)\ \r\n\ @version\ (22072021)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2
